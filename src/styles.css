@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.css';
+
+.back{
+    font-size: 14px;
+    cursor: pointer;
+    padding-bottom: 10px;
+}
+.back:hover{
+    cursor: pointer;
+    color: rgb(7, 136, 216);
+}
